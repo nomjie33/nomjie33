@@ -2,7 +2,7 @@
 
 **`2nd Year Undergrad at DLSU BSCS-ST`**
 
-I am a beginner programmer who is still figuring out what I want to specialize in. I like to dabble in multiple mini projects and grinding leetcode and hacker rank. I plan to create bigger (but still mini) projects such as a Note App backed up onto the cloud and Weather App connected to an API. Feel free to join me on my journey :))
+Feel free to join me on my journey :))
 
 ### Languages I know or am learning
 
