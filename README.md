@@ -1,6 +1,6 @@
 # Hi I'm Noms!
 
-**`2nd Year Undergrad at DLSU BSCS-ST`**
+**`3rd Year Undergrad at DLSU BSCS-ST`**
 
 Feel free to join me on my journey :))
 
